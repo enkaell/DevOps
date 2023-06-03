@@ -1,2 +1,2 @@
-# Создание интернет-магазина
-Для предмета DevOps
+# Creating of E-commerce
+Study project
